@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.new_content {
+    width: 30%;
+    margin: auto;
+    padding: 100px 0;
+}
+
+input[type="email"] {
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #010101;
+    width: 100%;
+}
+header{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    overflow: hidden;
+    margin-top: 30px;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+nav{
+    width: 50%;
+    float: right;
+}
+nav ul{
+    list-style: none;
+    overflow: hidden;
+    float: right;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 50px;
+
+text-transform: uppercase;
+
+color: #626262;
+font-family: 'Playfair Display', serif;
+}
+.banner{
+    width: 90%;
+    margin-left: 5%;
+    
+}
+.banner img{
+    width: 100%;
+}
+.photodiary{
+    width: 80%;
+    margin-left: 10%;
+}
+.photodiary h5{
+
+color: #b4ad9e;
+
+font-size: 14px;
+
+text-transform: uppercase;
+
+font-weight: 500;
+
+margin-top: 100px;
+
+margin-bottom: 20px;
+}
+.photodiary h1{
+color: #626262;
+
+text-transform: capitalize;
+
+margin-bottom: 20px;
+font-family: 'Playfair Display', serif;
+}
+.photodiary p{
+
+color: #626262;
+
+font-size: 17px;
+
+margin-bottom: 50px;
+font-family: 'Playfair Display', serif;
+}
+.photodiary h6{
+    
+color: #b4ad9e;
+    
+font-size: 14px;
+    
+text-transform: uppercase;
+    
+font-weight: 500;
+    
+margin-bottom: 80px;
+}
+
+.lifestyle{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.lifestyle_left{
+    width: 48%;
+    float: left;
+}
+.lifestyle_left img{
+    width: 100%;
+}
+.lifestyle_left h1{
+    color: #626262;
+
+text-transform: capitalize;
+
+margin-bottom: 20px;
+font-family: 'Playfair Display', serif;
+}
+.lifestyle_left p{
+    color: #626262;
+
+font-size: 17px;
+
+margin-bottom: 50px;
+font-family: 'Playfair Display', serif;
+}
+.lifestyle_left h6{
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.lifestyle_right{
+    width: 48%;
+    float: right;
+}
+.lifestyle_right img{
+    width: 100%;
+}
+.lifestyle_right p{
+    color: #626262;
+
+font-size: 17px;
+
+margin-bottom: 50px;
+font-family: 'Playfair Display', serif;
+}
+.lifestyle_right h1{
+    color: #626262;
+
+text-transform: capitalize;
+
+margin-bottom: 20px;
+font-family: 'Playfair Display', serif;
+}
+.lifestyle_right h6{
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.news{
+    background-color: #f0f0f0;
+    margin-bottom: 100px;
+}
+.news_content{
+    width: 30%;
+    margin: auto;
+    padding: 70px 0px;
+}
+.news_content h1{
+    color: #626262;
+    text-transform: capitalize;
+    margin-bottom: 80px;
+    font-family: 'Playfair Display', serif;
+}
+.news_content input{
+
+border: none;
+
+background: transparent;
+
+border-bottom: 1px solid #010101;
+
+width: 100%;
+}
+.news_content input:focus{
+    outline: none;
+}
+.news_content input::placeholder{
+    color: #626262;
+    text-transform: capitalize;
+    font-family: 'Playfair Display', serif;
+}
+.send{
+    
+position: absolute;
+    
+bottom: 70px;
+    
+left: 370px;
+}
+.load{ 
+    text-align: center;
+}
+.load button{
+    
+padding: 16px 30px;
+    
+font-size: 16px;
+    
+margin: 100px 0;
+    
+font-weight: 300;
+}
+footer{
+    background-color: #f0f0f0;
+}
+.footer_content{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 30px 0;
+}
+.terms{
+    float: left;
+    width: 30%;
+}
+.terms__ul{
+    list-style: none;
+    float: right;
+}
+.terms__ul li{
+    float: left;
+    margin-left: 15px;
+}
+.social___icon{
+    width: 30%;
+    float: right;
+}
+.social___icon ul{
+    list-style: none;
+    float: right;
+}
+.social___icon ul li{
+    float: left;
+    margin-left: 15px;
+}
